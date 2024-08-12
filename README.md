@@ -1,4 +1,6 @@
 
+![](https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg)
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # testpkg
