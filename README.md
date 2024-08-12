@@ -4,6 +4,8 @@
 # testpkg
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/joe-mcgill/testpkg/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/joe-mcgill/testpkg/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 **NOTE: This is a toy package created for expository purposes, for the

@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 # testpkg
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/joe-mcgill/testpkg/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/joe-mcgill/testpkg/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 
