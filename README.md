@@ -49,11 +49,11 @@ stringr::str_split(x, pattern = ",")
 #> [1] "alfa"    "bravo"   "charlie" "delta"
 ```
 
+That’s exactly what `regexcite::str_split_one()` does.
+
 Notice how the return value is a **list** of length one, where the first
 element holds the character vector of parts. Often the shape of this
 output is inconvenient, i.e. we want the un-listed version.
-
-That’s exactly what `regexcite::str_split_one()` does.
 
 ``` r
 library(testpkg)
